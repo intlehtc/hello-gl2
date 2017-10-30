@@ -1,0 +1,17 @@
+Executable : D:\Android\StudioSDK\cmake\3.6.4111459\bin\cmake.exe
+arguments : 
+-HD:\Android\AndroidStudioProject\android-ndk-master\android-ndk-master\hello-gl2\app\src\main\cpp
+-BD:\Android\AndroidStudioProject\android-ndk-master\android-ndk-master\hello-gl2\app\.externalNativeBuild\cmake\debug\armeabi-v7a
+-GAndroid Gradle - Ninja
+-DANDROID_ABI=armeabi-v7a
+-DANDROID_NDK=D:\Android\StudioSDK\ndk-bundle
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=D:\Android\AndroidStudioProject\android-ndk-master\android-ndk-master\hello-gl2\app\build\intermediates\cmake\debug\obj\armeabi-v7a
+-DCMAKE_BUILD_TYPE=Debug
+-DCMAKE_MAKE_PROGRAM=D:\Android\StudioSDK\cmake\3.6.4111459\bin\ninja.exe
+-DCMAKE_TOOLCHAIN_FILE=D:\Android\StudioSDK\ndk-bundle\build\cmake\android.toolchain.cmake
+-DANDROID_PLATFORM=android-14
+-DANDROID_PLATFORM=android-14
+-DANDROID_TOOLCHAIN=clang
+-DANDROID_STL=gnustl_static
+jvmArgs : 
+

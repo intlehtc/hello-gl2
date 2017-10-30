@@ -1,0 +1,7 @@
+#Thu Oct 26 18:38:54 CST 2017
+base.0=D\:\\Android\\AndroidStudioProject\\android-ndk-master\\android-ndk-master\\hello-gl2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_6184fe0cd8d3cd712d899e1d6ad21f2b367d6e30
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\Android\\AndroidStudioProject\\android-ndk-master\\android-ndk-master\\hello-gl2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_96003d466c32975f62436da0b1f888743faaabfd\\classes.dex
+base.1=D\:\\Android\\AndroidStudioProject\\android-ndk-master\\android-ndk-master\\hello-gl2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_96003d466c32975f62436da0b1f888743faaabfd
+file.0=D\:\\Android\\AndroidStudioProject\\android-ndk-master\\android-ndk-master\\hello-gl2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_6184fe0cd8d3cd712d899e1d6ad21f2b367d6e30\\classes.dex

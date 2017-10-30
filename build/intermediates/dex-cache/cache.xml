@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\Android\AndroidStudioProject\android-ndk-master\android-ndk-master\hello-gl2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="875136b61baa824dcaf05f4d76079f46b978dbfc">
+        <dex dex="D:\Android\AndroidStudioProject\android-ndk-master\android-ndk-master\hello-gl2\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_6184fe0cd8d3cd712d899e1d6ad21f2b367d6e30\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\AndroidStudioProject\android-ndk-master\android-ndk-master\hello-gl2\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="D:\Android\AndroidStudioProject\android-ndk-master\android-ndk-master\hello-gl2\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_96003d466c32975f62436da0b1f888743faaabfd\classes.dex" />
+    </item>
+
+</items>
